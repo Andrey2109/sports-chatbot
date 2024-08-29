@@ -1,8 +1,10 @@
 # SportsBot - Athlete Information Chatbot
 
 ## Introduction
-SportsBot is a Spring Boot application designed to provide information about Israeli athletes, their competitions, and results. The application integrates with OpenAI's GPT model to answer queries related to athletes and their performance. It utilizes MongoDB for data storage and provides a RESTful API for interaction.
-![Youtube](https://img.shields.io/badge/-GitHub-red?style=flat-square&logo=github) [Technical Video](youtu.be/M87T3x3u8xo)
+SportsBot is a Spring Boot application designed to provide information about Israeli athletes, their competitions, and their results. The application integrates with OpenAI's GPT model to answer queries related to athletes and their performance. It utilizes MongoDB for data storage and provides a RESTful API for interaction.
+
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube)][Technical Video](https://youtu.be/M87T3x3u8xo)
+
 
 ## Features
 - **CRUD Operations**: Manage athlete information.
